@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e83fd2c1c02b26943a97969a5635e26c, type: 3}
+  m_Name: Current Player
+  m_EditorClassIdentifier: 
+  defaultData: {fileID: 11400000, guid: 002b747e174ee794eabae185c85a4e00, type: 2}
+  gameData: {fileID: 11400000, guid: 38b9728c4e781c546940ba6a419c1e03, type: 2}
+  Experience: {x: 0, y: 1000}
+  level: 1
+  orbiters: 8
+  followers: 0
+  Health: {x: 100, y: 100}
+  Drag: {x: 0.5, y: 1, z: 2}
+  switchDrag: 0
+  orbiterAim: 0
+  moveForce: 10
+  Guns:
+  - {fileID: 11400000, guid: 31926f6fa6109d54880ef02bf7862270, type: 2}
+  - {fileID: 11400000, guid: 6d063efc513d2654890a7530d7adf7c9, type: 2}
+  - {fileID: 0}
+  - {fileID: 0}
+  equippedGun: {fileID: 11400000, guid: 31926f6fa6109d54880ef02bf7862270, type: 2}
+  weaponIndex: 0

@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: aa0c06f16fa9ee3488079f3472c9d5d2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerPrefab: {fileID: 8869432819342366822, guid: 9a0551f43cab4eb4aaee2645ce84e060,
+      type: 3}
+  - cameraPrefab: {fileID: 2921269103145853203, guid: 5e4f5376facbfac4680dd2e3a190ccad,
+      type: 3}
+  - transitionCanvas: {fileID: 2266763258910922660, guid: b8218a092fe299649bb2e0afb06e15fd,
+      type: 3}
+  - gameUIPrefab: {fileID: 8824691707066312353, guid: 90b5ada5077666b42ad77dc2c587dd69,
+      type: 3}
+  - crossScene: {fileID: 11400000, guid: cb6f6c0a122f7d947a4919033593e7d5, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

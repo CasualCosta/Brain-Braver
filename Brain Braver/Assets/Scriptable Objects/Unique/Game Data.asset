@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 918f20b9ea0da6c448576b7f34cf7c1e, type: 3}
+  m_Name: Game Data
+  m_EditorClassIdentifier: 
+  player: {fileID: 11400000, guid: 01675b36158aade45976c1810926b668, type: 2}
+  rooms:
+  - {fileID: 11400000, guid: 9e920e84f9c62a8438ccfb3d1f96906f, type: 2}
+  - {fileID: 11400000, guid: 1f371ea708f15034b93ea09cda575e16, type: 2}
+  - {fileID: 11400000, guid: d5bcc8e934b2e1347be98991794eaf8c, type: 2}
+  - {fileID: 11400000, guid: 3d791af4653c3fe46b44e8754f39c672, type: 2}
+  - {fileID: 11400000, guid: b6e3349965d711c449e13ada25933e74, type: 2}
+  - {fileID: 11400000, guid: 93719c8d73b6a524bbe0b4677e0bb8c0, type: 2}
+  - {fileID: 11400000, guid: fb83657c0a523a74980c8f163441ced4, type: 2}
+  - {fileID: 11400000, guid: ae59769effb019a439158ded1dba2442, type: 2}
+  - {fileID: 11400000, guid: 4441b325d6d37c3478edbf1a58a856ff, type: 2}
+  guns: []
+  crossScene: {fileID: 11400000, guid: cb6f6c0a122f7d947a4919033593e7d5, type: 2}
+  saveRoomIndex: 0

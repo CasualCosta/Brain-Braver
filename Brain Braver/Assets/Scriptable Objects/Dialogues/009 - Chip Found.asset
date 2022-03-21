@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553d4f2581a2cb3488315482c76752a5, type: 3}
+  m_Name: 009 - Chip Found
+  m_EditorClassIdentifier: 
+  speaker: 1
+  sentences:
+  - Hello again, my consciousness. I bring good news.
+  - 'I have located the probe the "doctor" has mentioned. '
+  - I suppose that by tampering with it, it may fire a mis-signal informing of the
+    demise of the so-called "tumor". Or at least force them to end this operation.
+  - It may interest you to know that this "tumor" actually where our long-term memories
+    are stored.
+  - To reach the probe, you will have to take the second turn on the left in the
+    main junction.
+  - Once you get there, destroy the probe at once.

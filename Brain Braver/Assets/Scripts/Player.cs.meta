@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 41005d0e903cc0d44a9f6d3a1ade3992
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - scriptableObject: {fileID: 11400000, guid: 01675b36158aade45976c1810926b668, type: 2}
+  - gameData: {fileID: 11400000, guid: 38b9728c4e781c546940ba6a419c1e03, type: 2}
+  - options: {fileID: 11400000, guid: 4e8bbb3e307906147a1372b99f10b401, type: 2}
+  - rb: {instanceID: 0}
+  - trailRenderer: {instanceID: 0}
+  - mainFirepoint: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

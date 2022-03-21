@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa652fbf30a922341ae965b5ce1d7a96, type: 3}
+  m_Name: Greater Shooter
+  m_EditorClassIdentifier: 
+  defaultGun: {fileID: 11400000, guid: 605d0ea219b37f84da2e341e0334eca7, type: 2}
+  fireType: 1
+  spreadType: 0
+  bulletPrefab: {fileID: 7616266135361387970, guid: 684d02d8963b71748bd2d531d1b7387e,
+    type: 3}
+  isInfinite: 0
+  Ammo: {x: 19, y: 25}
+  recoversFromPickUp: 5
+  fireRate: 0.35
+  damage: 10
+  bulletForce: 800
+  bulletLifeTime: 5

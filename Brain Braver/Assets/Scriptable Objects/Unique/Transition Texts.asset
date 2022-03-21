@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b3d3ae5cf9b1bff47ab9a7e4f0b16735, type: 3}
+  m_Name: Transition Texts
+  m_EditorClassIdentifier: 
+  messages:
+  - You can brake your vehicle by holding SPACE BAR, by default.
+  - If your frontal camera offset is greater than zero, you may want to reduce the
+    camera movement speed to prevent loss of control.
+  - You can increase your frontal camera offset to aim more easily at longer range.
+    However, aiming at closer range will be harder.
+  - Not every foe can be beaten at your current state - or worth the effort. Sometimes
+    it's better to run.
+  - You can change your Orbiters' behavior by pressing the R key.
+  - Can one truly trust their memories? How much can a person actually recall from
+    a single event?
+  - Some things may have ever only taken place in your head...
+  - If one were to believe they had lost touch with reality, would their memories
+    be real?
+  - Have you ever heard of MK Ultra?
+  - (((They))) don't want you out there, telling the truth, ruining their plans.
+  - If you buried something deep, hiding it from yourself, maybe you had a good reason
+    to.
+  - Perhaps there is no winning in this sick turn of events.
+  - If you buried something deep, hiding it from yourself, maybe you had a good reason
+    to.
+  - Are you sure you are where you think you are?
+  currentMessage: Not every can be beaten at your current state - or worth the effort.
+    Sometimes it's better to run.

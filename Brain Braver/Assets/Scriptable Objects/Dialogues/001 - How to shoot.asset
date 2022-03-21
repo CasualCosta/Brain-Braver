@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553d4f2581a2cb3488315482c76752a5, type: 3}
+  m_Name: 001 - How to shoot
+  m_EditorClassIdentifier: 
+  speaker: 0
+  sentences:
+  - Operator, the needle is blocked by a protection seal. You'll have to puncture
+    it open.
+  - 'Press the right button on your ship''s controller to fire the blaster. '
+  - The BRAVER can power infinite low energy blasts, but be careful not to destroy
+    anything without a need.
+  - After all, we don't you to cause any unwanted damage to your own brain, do we?

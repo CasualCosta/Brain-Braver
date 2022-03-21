@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dae45e1e4ac4680479cd28f435503397, type: 3}
+  m_Name: 001 - Intro
+  m_EditorClassIdentifier: 
+  soundtrack: {fileID: 0}
+  pickedPowerUps: []
+  deletedEnemies:
+  - boolean: 1
+    description: The syringe barrier
+  storyEvents:
+  - index: 1
+    description: Introduction dialogue. Plays on load.
+  - index: 1
+    description: Barrier dialogue.
+  - index: 1
+    description: Post barrier destruction dialogue. Exposition on the place and what
+      to do.
+  loadMessage: All systems good to go. Get ready.

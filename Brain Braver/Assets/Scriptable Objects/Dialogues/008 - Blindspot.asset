@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 553d4f2581a2cb3488315482c76752a5, type: 3}
+  m_Name: 008 - Blindspot
+  m_EditorClassIdentifier: 
+  speaker: 0
+  sentences:
+  - Pilot, I can no longer see you. It seems the tumor has destroyed our tracking
+    probe.
+  - There is little to worry, though. From where I last saw you, you were somewhat
+    near the main tumor.
+  - Once you are done, our brain analysis probe will detect that the tumor has been
+    destroyed and we will wake you up.
+  - You will have to take the second turn on the right once you reach the main junction.
+  - Once you get there, destroy the tumor so we can wake you up.
